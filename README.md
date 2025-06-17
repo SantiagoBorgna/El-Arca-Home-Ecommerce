@@ -1,7 +1,5 @@
-# El Arca Home 🛒
-
+# El Arca Home
 **El Arca Home** is a fully functional e-commerce web application developed for a home goods store. 
-
 
 ## Features
 
@@ -10,7 +8,7 @@
 - Shopping cart with localStorage persistence
 - Order summary with shipping options (store pickup or home delivery)
 
-## 🛠️ Technologies Used
+## Technologies Used
 ### Frontend:
 - HTML5, CSS3 
 - JavaScript
