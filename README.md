@@ -32,6 +32,12 @@ spring.jpa.properties.hibernate.format_sql=true
 spring.jpa.properties.hibernate.globally_quoted_identifiers=true
 ```
 
+## Screenshots
+<img width="1919" height="985" alt="Captura de pantalla 2025-09-09 182958" src="https://github.com/user-attachments/assets/5e0fe510-aa02-41ca-82f8-c3f90b24b131" />
+<img width="1919" height="985" alt="Captura de pantalla 2025-09-09 183015" src="https://github.com/user-attachments/assets/b7559d3d-3d6a-4e9c-a651-30daeaeb17c4" />
+<img width="1919" height="983" alt="Captura de pantalla 2025-09-09 183026" src="https://github.com/user-attachments/assets/f085e984-2e19-4c28-ba5e-8e0f8936e314" />
+<img width="1919" height="980" alt="Captura de pantalla 2025-09-09 183102" src="https://github.com/user-attachments/assets/b50d554a-8044-4f5a-93ec-bd28b126d704" />
+
 ## Contributing
 If you’d like to contribute, feel free to fork the repository and submit a pull request with your improvements.
 
